@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasrosoft&show_icons=true&locale=en&layout=compact" alt="nasrosoft" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasrosoft&show_icons=true&locale=en" alt="nasrosoft" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasrosoft&" alt="nasrosoft" /></p>
