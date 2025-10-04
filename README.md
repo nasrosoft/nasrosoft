@@ -27,6 +27,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasrosoft&show_icons=true&locale=en&layout=compact&refresh=123" alt="nasrosoft" />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasrosoft&show_icons=true&locale=en" alt="nasrosoft" /></p>
+<p>&nbsp;
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=nasrosoft&show_icons=true&locale=en&refresh=123"
+       alt="nasrosoft" />
+</p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasrosoft&" alt="nasrosoft" /></p> -->
