@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full stack web developer from Algeria</h3>
 <h4 align="center">🚀 Aspiring Web3 Developer - Smart Contract Auditor</h4>
 <hr/>
-- 🔭 I’m currently working on [The-Algerian-Medical-Passport](https://github.com/nasrosoft/algerian-medical-passport-blockchain)
+
+- 🔭 I’m currently working on [Algerian-Medical-Passport](https://github.com/nasrosoft/algerian-medical-passport-blockchain)
 
 - 🌱 I’m currently learning **smart contract in blockchain**
 
